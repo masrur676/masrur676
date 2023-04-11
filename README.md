@@ -1,16 +1,15 @@
 ### Hi there 👋
+- 👋 Hi, I’m @masrur676
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C++.
+- 📫 How to reach me ... https://www.facebook.com/Masrurahmed676/
 
-<!--
-**masrur676/masrur676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://codeforces.com/profile/c231080_masrur">
+    <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/c231080_masrur"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.codechef.com/users/masrur676">
+    <img alt="Codechef" src="https://cp-logo.vercel.app/codechef/masrur676"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masrur676&label=Profile%20views&color=0e75b6&style=plastic" alt="masrur676" /> </p>
