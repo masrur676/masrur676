@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Assalamualaikum+.+I+am++Masrur+...%F0%9F%98%8A)](https://git.io/typing-svg)
 - 👋 Hi, I’m @masrur676
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++.
